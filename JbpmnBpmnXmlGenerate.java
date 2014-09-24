@@ -17,7 +17,7 @@ public class JbpmnBpmnXmlGenerate {
 			// creating process dynamically
 			factory = factory.name("Orderprocess")
 					.version("1.0")
-					.packageName("org.camunda.bpm.quickstart");
+					.packageName("org.jbpmn.bpm");
 
 			// adding start node
 			factory.startNode(1)
