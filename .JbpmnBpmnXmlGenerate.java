@@ -6,7 +6,7 @@ import org.jbpm.bpmn2.xml.XmlBPMNProcessDumper;
 import org.jbpm.ruleflow.core.RuleFlowNodeContainerFactory;
 import org.jbpm.ruleflow.core.RuleFlowProcessFactory;
 
-public class JbpmnBpmnGeneratenew {
+public class JbpmnBpmnXmlGenerate {
 
 	public static final void main(String[] args) {
 		try {
